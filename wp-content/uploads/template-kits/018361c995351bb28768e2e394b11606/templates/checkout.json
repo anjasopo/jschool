@@ -1,0 +1,600 @@
+{
+    "version": "0.4",
+    "title": "Checkout",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "2f7af722",
+            "settings": {
+                "custom_height": {
+                    "unit": "px",
+                    "size": 300,
+                    "sizes": []
+                },
+                "background_background": "gradient",
+                "padding": {
+                    "unit": "px",
+                    "top": "300",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary",
+                    "background_color_b": "globals\/colors?id=secondary"
+                },
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "id": 736,
+                    "url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/icon-bg-edu1.png",
+                    "alt": "",
+                    "source": "library",
+                    "size": ""
+                },
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "background_overlay_bg_width": {
+                    "unit": "%",
+                    "size": 12,
+                    "sizes": []
+                },
+                "_title": "hero-banner",
+                "shape_divider_bottom_height": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                },
+                "shape_divider_bottom_negative": "yes",
+                "margin": {
+                    "unit": "%",
+                    "top": "-10",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "%",
+                    "top": "-15",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "%",
+                    "top": "-28",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "background_color": "#0F3069",
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 90,
+                    "sizes": []
+                },
+                "background_gradient_position": "bottom right",
+                "background_overlay_position": "bottom center",
+                "content_position": "middle",
+                "structure": "20",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "230",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "200",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "48e54652",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_overlay_background": "classic",
+                        "background_overlay_image": {
+                            "id": "",
+                            "url": ""
+                        },
+                        "background_overlay_position": "top right",
+                        "background_overlay_repeat": "no-repeat",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.1,
+                            "sizes": []
+                        },
+                        "_inline_size_tablet": 100,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5b4790e0",
+                            "settings": {
+                                "title": "Checkout",
+                                "align_tablet": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=3c2ad25"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3c46ce1e",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_overlay_background": "classic",
+                        "background_overlay_image": {
+                            "id": "",
+                            "url": ""
+                        },
+                        "background_overlay_position": "top right",
+                        "background_overlay_repeat": "no-repeat",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.1,
+                            "sizes": []
+                        },
+                        "_inline_size_tablet": 100,
+                        "margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_tablet": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "margin_mobile": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6a4f2818",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "f2aaf8b",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "Checkout",
+                                        "selected_icon": {
+                                            "value": "jki jki-long-arrow-alt-right-solid",
+                                            "library": "jkiticon"
+                                        },
+                                        "_id": "70858fa"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=3c2ad25",
+                                    "text_color": "globals\/colors?id=3c2ad25",
+                                    "icon_typography_typography": "globals\/typography?id=text"
+                                },
+                                "icon_align_tablet": "center",
+                                "view": "inline",
+                                "icon_align": "right",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "icon_align_mobile": "center",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "26059d73",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "_title": "checkout"
+            },
+            "elements": [
+                {
+                    "id": "29ed1e18",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "39dfeadc",
+                            "settings": {
+                                "billing_details_section_title": "Billing Details",
+                                "billing_details_form_fields": [
+                                    {
+                                        "field_key": "billing_first_name",
+                                        "field_label": "First Name",
+                                        "label": "First Name",
+                                        "placeholder": "First Name",
+                                        "_id": "dbd7e59"
+                                    },
+                                    {
+                                        "field_key": "billing_last_name",
+                                        "field_label": "Last Name",
+                                        "label": "Last Name",
+                                        "placeholder": "Last Name",
+                                        "_id": "e56e1a7"
+                                    },
+                                    {
+                                        "field_key": "billing_company",
+                                        "field_label": "Company Name",
+                                        "label": "Company Name",
+                                        "placeholder": "Company Name",
+                                        "_id": "59f8bcc"
+                                    },
+                                    {
+                                        "field_key": "billing_country",
+                                        "field_label": "Country \/ Region",
+                                        "label": "Country \/ Region",
+                                        "placeholder": "Country \/ Region",
+                                        "repeater_state": "locale",
+                                        "_id": "caf2f2e"
+                                    },
+                                    {
+                                        "field_key": "billing_address_1",
+                                        "field_label": "Street Address",
+                                        "label": "Street Address",
+                                        "placeholder": "Street Address",
+                                        "repeater_state": "locale",
+                                        "_id": "ef53eaf"
+                                    },
+                                    {
+                                        "field_key": "billing_postcode",
+                                        "field_label": "Post Code",
+                                        "label": "Post Code",
+                                        "placeholder": "Post Code",
+                                        "repeater_state": "locale",
+                                        "_id": "a07c2f0"
+                                    },
+                                    {
+                                        "field_key": "billing_city",
+                                        "field_label": "Town \/ City",
+                                        "label": "Town \/ City",
+                                        "placeholder": "Town \/ City",
+                                        "repeater_state": "locale",
+                                        "_id": "49fb3c0"
+                                    },
+                                    {
+                                        "field_key": "billing_state",
+                                        "field_label": "State",
+                                        "label": "State",
+                                        "placeholder": "State",
+                                        "repeater_state": "locale",
+                                        "_id": "e387ce1"
+                                    },
+                                    {
+                                        "field_key": "billing_phone",
+                                        "field_label": "Phone",
+                                        "label": "Phone",
+                                        "placeholder": "Phone",
+                                        "_id": "e6ab6e9"
+                                    },
+                                    {
+                                        "field_key": "billing_email",
+                                        "field_label": "Email Address",
+                                        "label": "Email Address",
+                                        "placeholder": "Email Address",
+                                        "_id": "9588e72"
+                                    }
+                                ],
+                                "additional_information_form_fields": [
+                                    {
+                                        "field_key": "order_comments",
+                                        "field_label": "Order Notes",
+                                        "label": "Order Notes",
+                                        "placeholder": "Notes about your order, e.g. special notes for delivery.",
+                                        "_id": "ce69237"
+                                    }
+                                ],
+                                "order_summary_section_title": "Your Order",
+                                "coupon_section_title_text": "Have a coupon?",
+                                "coupon_section_title_link_text": "Click here to enter your coupon code",
+                                "terms_conditions_message_text": "I have read and agree to the website",
+                                "terms_conditions_link_text": "terms and conditions",
+                                "sections_border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "sections_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "sections_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "forms_fields_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "forms_buttons_normal_background_background": "classic",
+                                "forms_buttons_hover_background_background": "classic",
+                                "forms_buttons_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "forms_buttons_border_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "forms_buttons_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "25",
+                                    "bottom": "15",
+                                    "left": "25",
+                                    "isLinked": false
+                                },
+                                "order_summary_items_divider_weight": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "order_summary_totals_divider_weight": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "purchase_button_normal_background_background": "classic",
+                                "purchase_button_hover_background_background": "classic",
+                                "purchase_button_border_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "purchase_button_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "25",
+                                    "bottom": "15",
+                                    "left": "25",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "sections_border_color": "globals\/colors?id=e031fba",
+                                    "sections_titles_typography_typography": "globals\/typography?id=cbcd450",
+                                    "sections_title_color": "globals\/colors?id=primary",
+                                    "sections_secondary_title_color": "globals\/colors?id=primary",
+                                    "sections_secondary_titles_typography_typography": "globals\/typography?id=3ad3076",
+                                    "sections_descriptions_color": "globals\/colors?id=text",
+                                    "sections_descriptions_typography_typography": "globals\/typography?id=text",
+                                    "sections_messages_color": "globals\/colors?id=text",
+                                    "sections_messages_typography_typography": "globals\/typography?id=text",
+                                    "links_normal_color": "globals\/colors?id=secondary",
+                                    "links_hover_color": "globals\/colors?id=accent",
+                                    "forms_label_typography_typography": "globals\/typography?id=text",
+                                    "forms_label_color": "globals\/colors?id=text",
+                                    "forms_fields_normal_color": "globals\/colors?id=text",
+                                    "forms_field_typography_typography": "globals\/typography?id=text",
+                                    "forms_button_typography_typography": "globals\/typography?id=accent",
+                                    "forms_buttons_normal_background_color": "globals\/colors?id=accent",
+                                    "forms_buttons_normal_text_color": "globals\/colors?id=3c2ad25",
+                                    "forms_buttons_hover_text_color": "globals\/colors?id=3c2ad25",
+                                    "forms_buttons_hover_background_color": "globals\/colors?id=9debfa6",
+                                    "order_summary_items_typography_typography": "globals\/typography?id=3ad3076",
+                                    "order_summary_items_color": "globals\/colors?id=text",
+                                    "order_summary_variations_typography_typography": "globals\/typography?id=text",
+                                    "order_summary_variations_color": "globals\/colors?id=text",
+                                    "order_summary_items_divider_color": "globals\/colors?id=8b564f1",
+                                    "order_summary_totals_color": "globals\/colors?id=text",
+                                    "order_summary_totals_typography_typography": "globals\/typography?id=3ad3076",
+                                    "order_summary_totals_divider_color": "globals\/colors?id=8b564f1",
+                                    "purchase_button_normal_text_color": "globals\/colors?id=3c2ad25",
+                                    "purchase_button_normal_background_color": "globals\/colors?id=accent",
+                                    "purchase_button_hover_background_color": "globals\/colors?id=9debfa6",
+                                    "purchase_button_hover_text_color": "globals\/colors?id=3c2ad25",
+                                    "purchase_button_typography_typography": "globals\/typography?id=accent",
+                                    "sections_background_color": "globals\/colors?id=3c2ad25"
+                                },
+                                "section_normal_box_shadow_box_shadow_type": "yes",
+                                "section_normal_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.1)"
+                                },
+                                "sections_border_type": "none",
+                                "sections_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "sections_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "forms_label_spacing": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": [],
+                                    "px": 0
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "woocommerce-checkout-page",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

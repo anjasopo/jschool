@@ -1,0 +1,15 @@
+[2024-05-13 13:03:09 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-05-13 13:03:10 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-05-13 13:03:10 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-05-13 13:03:10 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-05-13 13:03:10 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2024-05-13 13:03:10 : INFO] - Re_Smush_It_Task - Attachment ID : 160, Started on : May 13, 2024 01:03:10 
+[2024-05-13 13:03:10 : INFO] - File: Elementor-post-screenshot_66_2024-05-12-10-02-25_4f56025d.png, Compression quality: 92 
+[2024-05-13 13:03:14 : INFO] - Backing up the original image - elementor/screenshots/Elementor-post-screenshot_66_2024-05-12-10-02-25_4f56025d-updraft-pre-smush-original.png 
+[2024-05-13 13:03:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-05-13 13:03:14 : INFO] - Successfully optimized the image - /Applications/MAMP/htdocs/jschool/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_66_2024-05-12-10-02-25_4f56025d.png.The file was compressed from 50.23 KB to 49.90 KB, saving 0.65 percent, using WP-Optimize 
+[2024-05-13 13:03:14 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2024-05-13 13:03:14 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-05-13 13:03:14 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-05-13 13:03:14 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-05-13 13:03:14 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 

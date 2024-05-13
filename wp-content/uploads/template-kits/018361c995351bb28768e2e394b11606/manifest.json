@@ -1,0 +1,1521 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Edulogic - University & School Education Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home1",
+            "screenshot": "screenshots\/home1.jpg",
+            "source": "templates\/home1.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/home1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home2",
+            "screenshot": "screenshots\/home2.jpg",
+            "source": "templates\/home2.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/home2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/?elementor_library=elementor-archive-1569",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/?elementor_library=elementor-single-post-1595",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/?elementor_library=elementor-error-404-1617",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Search Results",
+            "screenshot": "screenshots\/search-results.jpg",
+            "source": "templates\/search-results.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/?elementor_library=elementor-search-results-1629",
+            "type": "search-results",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-search",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "search-results",
+                "elementor_pro_conditions": [
+                    "include\/archive\/search"
+                ],
+                "additional_template_information": [
+                    "This is a \"Search Results\" template for Elementor Pro.",
+                    "This template will display on: Search Results."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Products Archive",
+            "screenshot": "screenshots\/products-archive.jpg",
+            "source": "templates\/products-archive.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/?elementor_library=elementor-products-archive-1687",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/?elementor_library=elementor-single-product-1703",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cart",
+            "screenshot": "screenshots\/cart.jpg",
+            "source": "templates\/cart.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/cart\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Checkout",
+            "screenshot": "screenshots\/checkout.jpg",
+            "source": "templates\/checkout.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/checkout\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Myaccount",
+            "screenshot": "screenshots\/myaccount.jpg",
+            "source": "templates\/myaccount.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/myaccount\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.jpg",
+            "source": "templates\/events.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Event Detail",
+            "screenshot": "screenshots\/event-detail.jpg",
+            "source": "templates\/event-detail.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/event-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/careers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Career Detail",
+            "screenshot": "screenshots\/career-detail.jpg",
+            "source": "templates\/career-detail.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/career-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team Detail",
+            "screenshot": "screenshots\/team-detail.jpg",
+            "source": "templates\/team-detail.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/team-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Categories",
+            "screenshot": "screenshots\/categories.jpg",
+            "source": "templates\/categories.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/categories\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course Detail",
+            "screenshot": "screenshots\/course-detail.jpg",
+            "source": "templates\/course-detail.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/course-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/htmldesigntemplates.com\/edulogic\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.12.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.14.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "7.8.2",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        }
+    ],
+    "images": [
+        {
+            "filename": "icon-bg-edu1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/icon-bg-edu1-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                },
+                {
+                    "source": "templates\/search-results.json",
+                    "name": "Search Results"
+                },
+                {
+                    "source": "templates\/products-archive.json",
+                    "name": "Products Archive"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/cart.json",
+                    "name": "Cart"
+                },
+                {
+                    "source": "templates\/checkout.json",
+                    "name": "Checkout"
+                },
+                {
+                    "source": "templates\/myaccount.json",
+                    "name": "Myaccount"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-detail.json",
+                    "name": "Team Detail"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 160357,
+            "dimensions": [
+                3556,
+                2000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "edu-circlebg.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/edu-circlebg.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                }
+            ],
+            "filesize": 257378,
+            "dimensions": [
+                464,
+                408
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "wepik-export-20230627064459woMJ-1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/wepik-export-20230627064459woMJ-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                }
+            ],
+            "filesize": 251397,
+            "dimensions": [
+                360,
+                540
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-edulean.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/bg-edulean-800x547.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 65605,
+            "dimensions": [
+                1171,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "making-friends-on-campus-cropped-shot-of-a-group-2022-10-07-20-31-35-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/making-friends-on-campus-cropped-shot-of-a-group-2022-10-07-20-31-35-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 217033,
+            "dimensions": [
+                818,
+                818
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "group-of-university-students-standing-in-corridor-2022-01-18-23-33-46-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/group-of-university-students-standing-in-corridor-2022-01-18-23-33-46-utc-800x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 239481,
+            "dimensions": [
+                928,
+                579
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "university-students-studying-with-teacher-2022-02-02-04-49-53-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/university-students-studying-with-teacher-2022-02-02-04-49-53-utc-800x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                }
+            ],
+            "filesize": 233989,
+            "dimensions": [
+                928,
+                579
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "attractive-business-woman-24AG6Y4-copy.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/attractive-business-woman-24AG6Y4-copy.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team-detail.json",
+                    "name": "Team Detail"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 68880,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "an-attractive-group-of-friends-enjoying-a-break-be-2022-12-24-03-46-34-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/an-attractive-group-of-friends-enjoying-a-break-be-2022-12-24-03-46-34-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 239658,
+            "dimensions": [
+                818,
+                818
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "man-with-beard-PE2XX2Z-copy.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/man-with-beard-PE2XX2Z-copy.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 66388,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "stylish-man-4N6J76M.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/stylish-man-4N6J76M.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                }
+            ],
+            "filesize": 48965,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "happy-university-friends-using-laptop-while-studyi-2022-11-09-03-50-42-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/happy-university-friends-using-laptop-while-studyi-2022-11-09-03-50-42-utc-800x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/career-detail.json",
+                    "name": "Career Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                }
+            ],
+            "filesize": 188071,
+            "dimensions": [
+                928,
+                579
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "graduation-education-and-portrait-of-woman-at-uni-2023-01-18-06-12-19-utc.jpg",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/graduation-education-and-portrait-of-woman-at-uni-2023-01-18-06-12-19-utc-800x499.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                }
+            ],
+            "filesize": 216563,
+            "dimensions": [
+                928,
+                579
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "12-Adventure-Logo-01.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/12-Adventure-Logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                }
+            ],
+            "filesize": 2425,
+            "dimensions": [
+                143,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "12-Adventure-Logo-02.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/12-Adventure-Logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                }
+            ],
+            "filesize": 2921,
+            "dimensions": [
+                158,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "12-Adventure-Logo-05.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/12-Adventure-Logo-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                }
+            ],
+            "filesize": 2380,
+            "dimensions": [
+                158,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "12-Adventure-Logo-04.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/12-Adventure-Logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                }
+            ],
+            "filesize": 2616,
+            "dimensions": [
+                158,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "12-Adventure-Logo-06.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/12-Adventure-Logo-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/categories.json",
+                    "name": "Categories"
+                }
+            ],
+            "filesize": 3061,
+            "dimensions": [
+                143,
+                86
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "educator-img8.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/educator-img8.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 178155,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "educator-img11.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/educator-img11.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 201423,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "educator-img9.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/educator-img9.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 219462,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "educator-img10.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/educator-img10.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 170749,
+            "dimensions": [
+                450,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "model-student-in-a-blue-dress-with-a-backpack-not-2022-12-10-01-23-09-utc2.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/model-student-in-a-blue-dress-with-a-backpack-not-2022-12-10-01-23-09-utc2.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                }
+            ],
+            "filesize": 257463,
+            "dimensions": [
+                360,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "shape-ev-1.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/shape-ev-1-800x481.png",
+            "templates": [
+                {
+                    "source": "templates\/home1.json",
+                    "name": "Home1"
+                },
+                {
+                    "source": "templates\/home2.json",
+                    "name": "Home2"
+                }
+            ],
+            "filesize": 269185,
+            "dimensions": [
+                1920,
+                1155
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "edulogic-logo-04.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/edulogic-logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3506,
+            "dimensions": [
+                292,
+                81
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Office-Chair.H03.2k.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/07\/Office-Chair.H03.2k.png",
+            "templates": [
+                {
+                    "source": "templates\/products-archive.json",
+                    "name": "Products Archive"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 167407,
+            "dimensions": [
+                375,
+                375
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Laptop.H03.2k.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/07\/Laptop.H03.2k.png",
+            "templates": [
+                {
+                    "source": "templates\/products-archive.json",
+                    "name": "Products Archive"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 236588,
+            "dimensions": [
+                375,
+                375
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Gray-Office-Desk-Set.H03.2k.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/07\/Gray-Office-Desk-Set.H03.2k.png",
+            "templates": [
+                {
+                    "source": "templates\/products-archive.json",
+                    "name": "Products Archive"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 219897,
+            "dimensions": [
+                375,
+                375
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Office-Phone.H03.2k.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/07\/Office-Phone.H03.2k.png",
+            "templates": [
+                {
+                    "source": "templates\/products-archive.json",
+                    "name": "Products Archive"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 86441,
+            "dimensions": [
+                375,
+                375
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Office-Clock.H02.2k.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/07\/Office-Clock.H02.2k.png",
+            "templates": [
+                {
+                    "source": "templates\/products-archive.json",
+                    "name": "Products Archive"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 265208,
+            "dimensions": [
+                375,
+                375
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "Office-Lamp.H03.2k.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/07\/Office-Lamp.H03.2k.png",
+            "templates": [
+                {
+                    "source": "templates\/products-archive.json",
+                    "name": "Products Archive"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 69843,
+            "dimensions": [
+                375,
+                375
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/3RMH5XT6VQ?utm_source=my_collection&utm_medium=link&utm_campaign=share_collection"
+        },
+        {
+            "filename": "shape-ev.png",
+            "thumbnail_url": "https:\/\/htmldesigntemplates.com\/edulogic\/wp-content\/uploads\/sites\/39\/2023\/06\/shape-ev-800x481.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 269185,
+            "dimensions": [
+                1920,
+                1155
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
