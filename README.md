@@ -2,6 +2,8 @@
 
 Selamat datang di dokumentasi resmi Jiti School! Dokumen ini bertujuan untuk memberikan panduan singkat tentang pengembangan dan pengelolaan situs web Jiti School.
 
+![Home Jiti School](https://github.com/anjasopo/jschool/blob/main/JITI School.png)
+
 ## Gambaran Umum
 
 Jiti School adalah sebuah institusi pendidikan yang berfokus pada penyediaan layanan pendidikan berkualitas. Situs web ini dibangun dengan menggunakan WordPress sebagai platform utama, dengan berbagai plugin dan tema yang disesuaikan untuk memenuhi kebutuhan sekolah.
